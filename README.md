@@ -1,2 +1,2 @@
 # Haskell99Excercise
-99 Exercise in Haskell 
+Moved Excercises to https://www.codewars.com/users/KDahir247
